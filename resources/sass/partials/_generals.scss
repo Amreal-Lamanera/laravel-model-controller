@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #FFF;
+}
+
+ul,
+li,
+menu {
+    list-style: none;
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 93, 159);
+    text-decoration: underline;
+    transition: all 300ms ease-in-out;
+}
