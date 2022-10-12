@@ -22,6 +22,12 @@ header {
 
         li {
             font-size: 2rem;
+
+            a:hover {
+                color: rgb(0, 93, 159);
+                text-decoration: underline;
+                transition: all 300ms ease-in-out;
+            }
         }
     }
 }
